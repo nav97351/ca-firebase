@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "canvas-analytics-40160"
-  }
+    "default": "canvas-analytics-9d9f3",
+    "staging": "canvas-analytics-9d9f3"
+  },
+  "targets": {}
 }
